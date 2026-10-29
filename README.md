@@ -20,7 +20,7 @@ A Windows 11 webcam hand-tracking experiment using MediaPipe and OpenCV. The pro
 
 - A Windows preferably 11 (and later 11+)
 - Python 3.14.x
-- A working webcam
+- A working webcam. i mean thats like very obvious. im not god i canmake this work with out a camera (unless mocap gloves)
 
 Tested with:
 
@@ -79,3 +79,5 @@ python camera_test.py
 This project is currently Windows-specific because mouse control uses the Windows `user32` API.
 
 The `.venv` directory is intentionally not part of the repository. Create your own environment if you want one.
+
+and if you want to support me on patreon. i also make yt videos and even you will get a shoutout if you support me :). ok bai now
