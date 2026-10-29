@@ -1,6 +1,6 @@
 # Hand Tracking Thingy
 
-A Windows 11 webcam hand-tracking experiment using MediaPipe and OpenCV. The project is being developed toward a Kinect-inspired interactive dashboard and Toybox.
+A Windows 11 webcam hand-tracking experiment using MediaPipe and OpenCV. The project is being developed toward a Kinect-inspired interactive dashboard and Toybox....soon
 
 ## Current features
 
@@ -18,7 +18,7 @@ A Windows 11 webcam hand-tracking experiment using MediaPipe and OpenCV. The pro
 
 ## Requirements
 
-- Windows 11
+- A Windows preferably 11 (and later 11+)
 - Python 3.14.x
 - A working webcam
 
